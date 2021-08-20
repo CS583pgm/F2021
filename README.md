@@ -52,6 +52,10 @@ Web: http://www.cs.iit.edu/~mbilgic/
 
 TBD
 
+## Notes
+
+OneNote Link: https://1drv.ms/u/s!AjipUklg3ofWkQYm2sHRh9tmf1Wq
+
 ## Grading
 
 Item | Points
