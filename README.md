@@ -71,7 +71,7 @@ There will be approximately 7 assignments. Assignments will focus on the theory 
 
 #### Late Submission Policy
 
-There is a 5-minute grace period. After the grace period is over, every late minute costs 1 point. The late submission policy is strictly enforced. Please do not submit late; submit early.
+There is a 5-minute grace period. After the grace period is over, every late minute costs 100/(48x60) = 0.03472 points. The late submission policy is strictly enforced. Please do not submit late; submit early.
 
 #### Extensions
 
