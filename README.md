@@ -44,7 +44,7 @@ https://mitpress.mit.edu/books/probabilistic-graphical-models
 
 Mustafa Bilgic
 
-Office hours: https://docs.google.com/spreadsheets/d/1cFrdlYQW24R0Zi-yPplbNKBYhakspbjHKqUMcRySml4/
+Office hours: Visit the [Google Sheet](https://docs.google.com/spreadsheets/d/1cFrdlYQW24R0Zi-yPplbNKBYhakspbjHKqUMcRySml4/) that has the office hour info for all CS faculty.
 
 
 ## Teaching Assistants
