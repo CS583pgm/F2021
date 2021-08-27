@@ -44,8 +44,7 @@ https://mitpress.mit.edu/books/probabilistic-graphical-models
 
 Mustafa Bilgic
 
-Office hours: TBD <br>
-Web: http://www.cs.iit.edu/~mbilgic/
+Office hours: https://docs.google.com/spreadsheets/d/1cFrdlYQW24R0Zi-yPplbNKBYhakspbjHKqUMcRySml4/
 
 
 ## Teaching Assistants
