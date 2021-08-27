@@ -59,6 +59,14 @@ Email: ryang23@hawk.iit.edu
 
 OneNote Link: https://1drv.ms/u/s!AjipUklg3ofWkQYm2sHRh9tmf1Wq
 
+## Exams
+
+### Midterm
+9:40am-10:50am (US Central Time) on Thursday, October 14th, 2021
+
+### Final
+December 6-11 (The exact day and time to be determined by the university)
+
 ## Grading
 
 Item | Points
