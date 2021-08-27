@@ -50,7 +50,10 @@ Web: http://www.cs.iit.edu/~mbilgic/
 
 ## Teaching Assistants
 
-TBD
+Ruo Yang
+
+Office hours: TBD <br>
+Email: ryang23@hawk.iit.edu
 
 ## Notes
 
