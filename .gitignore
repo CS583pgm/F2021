@@ -2,3 +2,6 @@
 *.pptx
 *.docx
 *.xlsx
+
+# Hugin
+*.hlg
